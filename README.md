@@ -46,7 +46,7 @@ Install the necessary dependencies using pip:
 - Clone the Repository
 
 ```bash
-  git clone https://github.com/yourusername/TikiTaka.git
+  git clone https://github.com/selwyngomes/TikiTaka.git
 ```
 - Navigate to the project directory
 
