@@ -46,17 +46,17 @@ Install the necessary dependencies using pip:
 - Clone the Repository
 
 ```bash
-  git clone https://github.com/selwyngomes/TikiTaka.git
+  git clone https://github.com/selwyngomes/Tiki-Taka.git
 ```
 - Navigate to the project directory
 
 ```bash
-  git clone cd TikiTaka
+  git clone cd Tiki-Taka
 ```
 - Navigate to the project directory
 
 ```bash
-  git clone cd TikiTaka
+  git clone cd Tiki-Taka
 ```
 - Run the game
 
@@ -67,7 +67,7 @@ Install the necessary dependencies using pip:
 ## Directory Structure
 
 ```bash
-TikiTaka/
+Tiki-Taka/
 │
 ├── Resources/               # Contains game assets (images)
 │   ├── Background.png
